@@ -1,4 +1,6 @@
 # 💸 App de Finanças Pessoais com Vibe Coding by Brenda
+Este projeto foi desenvolvido como um desafio de projeto da DIO utilizando Lovable e o Copilot Web. A proposta foi de criar um aplicativo de organização de finanças pessoais desenvolvido com a abordagem de **Vibe Coding**, uma experiência simples e acessível para quem deseja começar a controlar seus gastos sem complicações, utilizando conversas em linguagem natural em vez de formulários complexos.  
+O app foi estruturado a partir de um **PRD refinado** e prototipado no Lovable, com foco em funcionalidades práticas como registro de gastos via chat, definição de metas financeiras, relatórios visuais e autenticação de usuários, sempre seguindo princípios de **Design Universal** para garantir usabilidade ao maior número possível de pessoas.
 
 PRD refinado no Copilot Web:
 
