@@ -48,9 +48,9 @@ Isso significa:
 
 ```
 
-Interaões com o Lovable:
+Interações com o Lovable:
 
-> Crie um App de finanças pessoais com base no seguinte PRD (Product requirements documents).# PRD – Aplicativo de Organização de Finanças Pessoais
+> Crie um App de finanças pessoais com base no seguinte PRD (Product requirements documents). {PRD}
 
 > Quero que o aplicativo de organização financeira pessoal seja funcional, não apenas um dashboard genérico. Inclua autenticação de usuários (login e cadastro) e configure um banco de dados individual para cada perfil, garantindo que as informações fiquem salvas e acessíveis. O assistente deve ser capaz de criar metas financeiras quando solicitado e adicioná-las automaticamente na aba de metas ...
 
